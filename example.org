@@ -1,0 +1,47 @@
+#+TITLE: Example
+
+* Basmati Rice
+** Pre-eat to boil
+:PROPERTIES:
+:mode: temperature
+:temperature: 95
+:threshold: 95
+:fire: 99
+:END:
+** Low-power
+:PROPERTIES:
+:mode: temperature
+:temperature: 95
+:threshold: 80
+:fire: 20
+:END:
+** Cook until all water evaporated
+:PROPERTIES:
+:mode: temperature
+:temperature: 102
+:threshold: 95
+:fire: 10
+:END:
+
+* Basmati Rice
+** Pre-eat to boil
+:PROPERTIES:
+:mode: temperature
+:temperature: 95
+:threshold: 95
+:fire: 99
+:END:
+** Low-power
+:PROPERTIES:
+:mode: temperature
+:temperature: 95
+:threshold: 80
+:fire: 20
+:END:
+** Cook until all water evaporated
+:PROPERTIES:
+:mode: temperature
+:temperature: 102
+:threshold: 95
+:fire: 10
+:END:
